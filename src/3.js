@@ -17,4 +17,4 @@ for (let i = 0; i < len; ++i) {
     });
 }
 
-fs.writeFileSync('cfg/IdiomConfig1.json', JSON.stringify(dest));
+fs.writeFileSync('cfg/IdiomConfigN.json', JSON.stringify(dest));
